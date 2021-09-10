@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brifeb
-- 👀 I’m interested Internet of Things
+- 👀 I’m interested to Internet of Things
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to build value to others
 - 📫 How to reach me mailto:brifeb@gmail.com
