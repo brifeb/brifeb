@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brifeb
 - 👀 I’m interested to Internet of Things and Web Development to make life easier
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and React JS
 - 💞️ I’m looking to collaborate to build value to others
 - 📫 How to reach me mailto:brifeb@gmail.com
 
